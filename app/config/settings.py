@@ -1,3 +1,3 @@
 UID = "3983402043"
 PASS = "6DD96523248B673FF88343D71767ADB82319FCA59A11408F2FCD5286AA7FF4D4"
-URL = "https://nexx32jwt.onrender.com/fetch-token"
+URL = "https://rafid-jwt-source.vercel.app/token"
